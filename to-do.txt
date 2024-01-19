@@ -1,0 +1,5 @@
+Misc tasks in no order
+• Add review analysis and report generator
+• Finish rewite for LangChain 0.1
+• add scraper/input to take amazon(orother) page details and analyze reviews.
+• Define appropriate input types for multiple platform use
